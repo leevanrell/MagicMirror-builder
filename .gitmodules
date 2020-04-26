@@ -1,0 +1,6 @@
+[submodule "raspberian-firstboot"]
+	path = raspberian-firstboot
+	url = git@github.com:leevanrell/raspberian-firstboot.git
+[submodule "MagicMirror_scripts"]
+	path = MagicMirror_scripts
+	url = git@github.com:leevanrell/MagicMirror_scripts.git
